@@ -20,9 +20,8 @@
 
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" tittle="HTML" width="50" heigth="50">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="CSS" title ="CSS" width="50" heigth="50">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fcss-logo%2F&psig=AOvVaw302zBTAs-wLXiWa1-pljsr&ust=1723662858331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCegMrW8ocDFQAAAAAdAAAAABAE" alt="javascript" title ="javascript">
-
+    <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="CSS" title ="CSS" width="50" heigth="50">
+    <img src="https://e7.pngegg.com/pngimages/725/775/png-clipart-javascript-html-logo-blog-css3-javanese-miscellaneous-angle-thumbnail.png" alt="javascript" title ="javascript" width="50" heigth="50">
        
 </p>
 
@@ -30,7 +29,7 @@
 
 <!-- HTML -->
 <details>
-<summary><span>C#</span></summary>
+<summary><span>HTML</span></summary>
 
 |                      Desafio                       |                           Código                            | SQ  |
 | :------------------------------------------------: | :---------------------------------------------------------: | :-: |
