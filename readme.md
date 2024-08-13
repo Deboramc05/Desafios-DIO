@@ -12,25 +12,21 @@
   
 </p>
 
-<h3 align="center"> ## 💻 Projeto</h3>
+<h3 align="center"> 💻 Projeto</h3>
 
 <p align="center"> Desafios em  HTML | CSS | JavaScript | Lógica de Programação
 </p>
-<h3 align="center"> ## 🚀 Tecnologias </h3>
+<h3 align="center"> 🚀 Tecnologias </h3>
 
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" tittle="HTML" width="50" heigth="50">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="CSS" title ="CSS" width="50" heigth="50">
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fcss-logo%2F&psig=AOvVaw302zBTAs-wLXiWa1-pljsr&ust=1723662858331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCegMrW8ocDFQAAAAAdAAAAABAE" alt="javascript" title ="javascript">
 
-   <!-- JavaScript -->
-  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript">
-    <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
-  </a>
-    
+       
 </p>
 
-<p align="center">## 📚 </p>
+📚 
 
 <!-- HTML -->
 <details>
