@@ -7,25 +7,22 @@
 </h2>
 
 <p align="center">
-  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/56ed6ad5-c8c4-4518-b878-1773c1234c3b"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/56ed6ad5-c8c4-4518-b878-1773c1234c3b.svg" alt="wakatime"></a>
-</p>
-
-<p align="center">
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
 
-## 💻 Projeto
+<p align="center"> ## 💻 Projeto</p>
 
-Desafios em  HTML | CSS | JavaScript | Lógica de Programação
-
-## 🚀 Tecnologias
+<p align="center"> Desafios em  HTML | CSS | JavaScript | Lógica de Programação
+</p>
+<p align="center"> ## 🚀 Tecnologias </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" tittle="C#">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" title ="java">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" title ="javascript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" tittle="HTML">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="CSS" title ="CSS">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fcss-logo%2F&psig=AOvVaw302zBTAs-wLXiWa1-pljsr&ust=1723662858331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCegMrW8ocDFQAAAAAdAAAAABAE" alt="javascript" title ="javascript">
+
    <!-- JavaScript -->
   <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/JavaScript">
     <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
@@ -33,9 +30,9 @@ Desafios em  HTML | CSS | JavaScript | Lógica de Programação
     
 </p>
 
-## 📚
+<p align="center">## 📚 </p>
 
-<!-- C# -->
+<!-- HTML -->
 <details>
 <summary><span>C#</span></summary>
 
